@@ -17,6 +17,8 @@ if nargin<3
     which_features = -1;    
 end
 
+CIAO 
+
 [number_of_parameters number_of_smile_samples] = size(sa); % Column-observation
 [number_of_parameters number_of_nonsmile_samples ] = size(na);
 
